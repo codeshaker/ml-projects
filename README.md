@@ -1,2 +1,3 @@
 # ml-projects
-This repo will be used for different machine learning projects
+
+This repo will be used for different machine learning projects for tutorial purpose.
