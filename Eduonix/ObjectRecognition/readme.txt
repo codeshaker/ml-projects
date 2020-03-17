@@ -1,0 +1,2 @@
+1. All CNN Weight downloaded from https://github.com/PAN001/All-CNN/blob/master/all_cnn_weights_0.9088_0.4994.hdf5 as there are 1 Million parameter and without GPU 
+it will take lot of time if using only CPU
