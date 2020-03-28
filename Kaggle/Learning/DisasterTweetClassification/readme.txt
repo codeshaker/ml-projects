@@ -1,0 +1,1 @@
+Used GLOVE for word vector representation. Download from https://nlp.stanford.edu/projects/glove/
